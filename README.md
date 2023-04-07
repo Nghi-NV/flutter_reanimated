@@ -15,7 +15,7 @@ To use this plugin, add `reanimated` as a [dependency in your pubspec.yaml file]
 
 ## Example
 
-See the [example]() project for a complete sample app using Reanimated.
+See the [example](https://github.com/Nghi-NV/flutter_reanimated/blob/main/example/example.dart) project for a complete sample app using Reanimated.
 
 ## Credits
 
